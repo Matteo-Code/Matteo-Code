@@ -7,6 +7,10 @@ My journey started 4 years ago. The programming languages that I know best are J
 <br>
 <img align="left" alt="Matteo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Matteo-Code&show_icons=true&hide_border=true&bg_color=000&text_color=FFF" />
 
+### Languages/Tools:
+
+[<img align="left" alt"java" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/twitter.svg" />]
+
 <!--
 **Matteo-Code/Matteo-Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
