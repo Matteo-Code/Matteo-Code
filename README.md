@@ -1,6 +1,10 @@
 Hi, my name is Matteo and I am 15 years old. 👋
 My journey started 4 years ago. The programming languages that I know best are Java, C# and Python. But I know many more... 
 
+---
+
+<img align="left" alt="Matteo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Matteo-Code&show_icons=true&hide_border=true" />
+
 <!--
 **Matteo-Code/Matteo-Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
