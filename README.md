@@ -1,5 +1,5 @@
-###Hi, my name is Matteo and I am 15 years old. 👋
-###My journey started 4 years ago. The programming languages that I know best are Java, C# and Python. But I know many more... 
+Hi, my name is Matteo and I am 15 years old. 👋
+My journey started 4 years ago. The programming languages that I know best are Java, C# and Python. But I know many more... 
 
 <!--
 **Matteo-Code/Matteo-Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
