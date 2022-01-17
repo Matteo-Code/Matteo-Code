@@ -3,6 +3,8 @@ My journey started 4 years ago. The programming languages that I know best are J
 
 ---
 
+<img align="left" alt="Matteo's Profile Views" src="https://komarev.com/ghpvc/?username=Matteo-Code&color=blue">
+
 <img align="left" alt="Matteo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Matteo-Code&show_icons=true&hide_border=true" />
 
 <!--
