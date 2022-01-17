@@ -5,7 +5,7 @@ My journey started 4 years ago. The programming languages that I know best are J
 
 <img align="left" alt="Matteo's Profile Views" src="https://komarev.com/ghpvc/?username=Matteo-Code&color=blue">
 <br>
-<img align="left" alt="Matteo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Matteo-Code&show_icons=true&hide_border=true&bg_color=000" />
+<img align="left" alt="Matteo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Matteo-Code&show_icons=true&hide_border=true&bg_color=000&text_color=FFF" />
 
 <!--
 **Matteo-Code/Matteo-Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
