@@ -1,4 +1,4 @@
-Hi, my name is Matteo and I am 15 years old. 👋
+Hi, my name is Matteo and I am 15 years old. 👋 <br>
 My journey started 4 years ago. The programming languages that I know best are Java, C# and Python. But I know many more... 
 
 ---
