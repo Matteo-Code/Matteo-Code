@@ -19,7 +19,7 @@ My journey started 4 years ago. The programming languages that I know best are J
 
 ### Languages/Tools:
 
-<img align="left" alt="HTML5" width="26px" href="https://vuejs.org/" src="https://avatars.githubusercontent.com/u/6128107?s=280&v=4" />
+<a href="https://vuejs.org/"><img align="left" alt="HTML5" width="26px" src="https://avatars.githubusercontent.com/u/6128107?s=280&v=4"/></a>
 
 <!--
 **Matteo-Code/Matteo-Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
