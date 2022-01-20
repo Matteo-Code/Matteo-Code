@@ -16,8 +16,6 @@ Goals this year: Learn Flutter, SQL and Kotlin (maybe also Java Frameworks)...
 <br>
 <br>
 <br>
-<br>
-<br>
 
 ### Languages/Tools:
 
